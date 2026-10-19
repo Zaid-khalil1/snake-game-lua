@@ -8,7 +8,7 @@ Controls:
 Enter - Start or restart
 Arrow keys or WASD - Move
 Escape - Return to menu
-ذ
+
 Assignment concepts:
 1. Game state manager: menu and playing states.
 2. Entity components: Position, Movement, Renderer.
@@ -19,5 +19,5 @@ Assignment concepts:
 
 Note:
 LÖVE 11.5 normally uses LuaJIT, which does not support
-Lua 5.4 to-be-closed variables using <close>.
+Lua 5.4 to-be-closed variables using &lt;close&gt;.
 The highscore_lua54_demo.lua file is a separate Lua 5.4 example.
